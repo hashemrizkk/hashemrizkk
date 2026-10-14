@@ -7,7 +7,7 @@ I'm a Computer Engineering student who likes understanding how things work under
 ## 🎓 Education
 
 **B.Sc. in Computer Engineering** — Egyptian University of Informatics (EUI), Faculty of Engineering
-Expected graduation: 2030 | CGPA: 3.84
+Expected graduation: 2030 | CGPA: 3.74
 
 ---
 
@@ -24,7 +24,7 @@ Expected graduation: 2030 | CGPA: 3.84
 
 ## 🚀 What I'm Working On
 
-- 🧠 Building ML/DL projects to apply what I learn in class
+- 🧠 Learning machine learning and deep learning on my own, and building projects to practice them
 - 🌐 Creating web projects with HTML, CSS and JavaScript
 - ⚙️ Practicing problem solving in C/C++ and Python
 
