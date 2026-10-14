@@ -1,4 +1,4 @@
-# Hi, I'm Hashem Rizk 👋
+# Hi, I'm Hashem Rizk
 
 I'm a Computer Engineering student who likes understanding how things work under the hood, from low-level C/C++ to machine learning models. I'm building my skills through hands-on projects and looking for opportunities to apply them to real problems.
 
