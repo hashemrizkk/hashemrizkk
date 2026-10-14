@@ -7,7 +7,7 @@ I'm a Computer Engineering student who likes understanding how things work under
 ## 🎓 Education
 
 **B.Sc. in Computer Engineering** — Egyptian University of Informatics (EUI), Faculty of Engineering
-Expected graduation: 2030 | CGPA: 3.84
+Expected graduation: 2030 | CGPA: 3.74
 
 ---
 
@@ -36,6 +36,7 @@ Expected graduation: 2030 | CGPA: 3.84
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hashemrizk)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashemahmed.rizk@gmail.com)
+![Discord](https://img.shields.io/badge/Discord-shumawtf-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 
