@@ -7,7 +7,7 @@ I'm a Computer Engineering student who likes understanding how things work under
 ## 🎓 Education
 
 **B.Sc. in Computer Engineering** — Egyptian University of Informatics (EUI), Faculty of Engineering
-Expected graduation: 2030 | CGPA: 3.74
+Expected graduation: 2030 | CGPA: 3.84
 
 ---
 
