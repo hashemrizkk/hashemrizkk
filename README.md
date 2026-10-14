@@ -16,6 +16,7 @@ Expected graduation: 2030 | CGPA: 3.74
 - **Languages:** Python, C, C++, JavaScript
 - **Machine Learning & AI:** Machine learning, deep learning
 - **Web Development:** HTML, CSS, JavaScript
+- **Embedded Systems:** Arduino, ESP32
 - **Cloud:** AWS fundamentals
 - **Tools & Environment:** Linux
 
@@ -48,5 +49,7 @@ Expected graduation: 2030 | CGPA: 3.74
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
